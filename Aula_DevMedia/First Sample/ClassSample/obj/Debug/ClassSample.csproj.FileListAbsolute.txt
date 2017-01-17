@@ -1,0 +1,5 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\Aula_DevMedia\First Sample\ClassSample\bin\Debug\ClassSample.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\Aula_DevMedia\First Sample\ClassSample\bin\Debug\ClassSample.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Aula_DevMedia\First Sample\ClassSample\bin\Debug\ClassSample.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\Aula_DevMedia\First Sample\ClassSample\obj\Debug\ClassSample.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Aula_DevMedia\First Sample\ClassSample\obj\Debug\ClassSample.pdb

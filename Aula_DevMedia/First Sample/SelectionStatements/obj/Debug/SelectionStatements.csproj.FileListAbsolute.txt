@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\Aula_DevMedia\First Sample\SelectionStatements\bin\Debug\SelectionStatements.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\Aula_DevMedia\First Sample\SelectionStatements\bin\Debug\SelectionStatements.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Aula_DevMedia\First Sample\SelectionStatements\bin\Debug\SelectionStatements.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\Aula_DevMedia\First Sample\SelectionStatements\obj\Debug\SelectionStatements.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Aula_DevMedia\First Sample\SelectionStatements\obj\Debug\SelectionStatements.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\Aula_DevMedia\First Sample\SelectionStatements\obj\Debug\SelectionStatements.csprojResolveAssemblyReference.cache

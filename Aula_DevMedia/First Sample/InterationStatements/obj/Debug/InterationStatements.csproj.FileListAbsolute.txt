@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\Aula_DevMedia\First Sample\InterationStatements\bin\Debug\InterationStatements.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\Aula_DevMedia\First Sample\InterationStatements\bin\Debug\InterationStatements.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Aula_DevMedia\First Sample\InterationStatements\bin\Debug\InterationStatements.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\Aula_DevMedia\First Sample\InterationStatements\obj\Debug\InterationStatements.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\Aula_DevMedia\First Sample\InterationStatements\obj\Debug\InterationStatements.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Aula_DevMedia\First Sample\InterationStatements\obj\Debug\InterationStatements.pdb

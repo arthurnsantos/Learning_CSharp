@@ -1,0 +1,6 @@
+﻿  exercicio2.cpp
+c:\users\user\documents\visual studio 2015\projects\exercicio2\exercicio2\exercicio2.cpp(30): warning C4102: 'IFCONDITION': unreferenced label
+c:\users\user\documents\visual studio 2015\projects\exercicio2\exercicio2\exercicio2.cpp(24): warning C4731: 'Exercicio_3Prova': frame pointer register 'ebp' modified by inline assembly code
+c:\users\user\documents\visual studio 2015\projects\exercicio2\exercicio2\exercicio2.cpp(61): warning C4731: 'Exercicio_3Prova': frame pointer register 'ebp' modified by inline assembly code
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol _main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+c:\users\user\documents\visual studio 2015\Projects\exercicio2\Debug\exercicio2.exe : fatal error LNK1120: 1 unresolved externals

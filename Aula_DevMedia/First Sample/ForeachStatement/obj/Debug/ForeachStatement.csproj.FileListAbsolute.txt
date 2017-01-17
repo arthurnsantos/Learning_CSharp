@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\Aula_DevMedia\First Sample\ForeachStatement\bin\Debug\ForeachStatement.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\Aula_DevMedia\First Sample\ForeachStatement\bin\Debug\ForeachStatement.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Aula_DevMedia\First Sample\ForeachStatement\bin\Debug\ForeachStatement.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\Aula_DevMedia\First Sample\ForeachStatement\obj\Debug\ForeachStatement.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\Aula_DevMedia\First Sample\ForeachStatement\obj\Debug\ForeachStatement.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Aula_DevMedia\First Sample\ForeachStatement\obj\Debug\ForeachStatement.pdb
